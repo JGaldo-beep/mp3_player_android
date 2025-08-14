@@ -2,6 +2,13 @@
 
 A modern, offline MP3 player app for Android built with Kotlin and Jetpack Compose following clean architecture principles.
 
+## 📸 Screens
+
+| 🏠 List Music | 📄 Playlist | ▶️ Now Playing | ♥ Favorites |
+|--------------|------------------|-------------|-------------|
+| <img width="200" src="https://github.com/user-attachments/assets/b8b0da2f-a5b9-4916-bbfa-4c953782698f" /> | <img width="200" src="https://github.com/user-attachments/assets/6a3d74e0-939d-4ed7-ac6f-3f7184da16b7" /> | <img src="https://github.com/user-attachments/assets/5288d8aa-f2ad-4817-aa92-f6a5ddf1e992" width="200"/> | <img src="https://github.com/user-attachments/assets/12312a1d-936d-4ca4-beb2-282d1ed481a5" width="200"/> |
+
+
 ## 🎵 Features Overview
 
 ### Core Music Playback
@@ -9,7 +16,8 @@ A modern, offline MP3 player app for Android built with Kotlin and Jetpack Compo
 - **Media Controls**: Play, pause, skip, previous with large accessible buttons
 - **Seek Control**: Scrub through tracks with progress slider
 - **Shuffle Mode**: Toggle between normal (🔄) and shuffle (🔀) playback
-- **Queue Management**: View and manage playback queue
+- **Queue Management**: View and manage playback queue![Uploading 2.jpg…]()
+
 - **Audio Focus**: Proper audio focus handling with ducking
 
 ### Music Library Management
